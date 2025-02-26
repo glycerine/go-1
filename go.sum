@@ -2,3 +2,5 @@ github.com/glycerine/go-1/codec v1.3.1 h1:uCgEHvqkCZayLUGAFLQjnmEWVMvvVxoHDyTQbM
 github.com/glycerine/go-1/codec v1.3.1/go.mod h1:sYP82jBffl9u5IaL8VVVuB5gZQHheCRTcecPxzmIyiI=
 github.com/glycerine/go-1/codec v1.3.2 h1:/YZSKjdlrN41tlkpuqeCVmcdsbF90/i5aJUFaOHWxoE=
 github.com/glycerine/go-1/codec v1.3.2/go.mod h1:sYP82jBffl9u5IaL8VVVuB5gZQHheCRTcecPxzmIyiI=
+github.com/glycerine/go-1/codec v1.3.4 h1:AkUk7hSg1Ar+qDYuC66l5HXWMnNN5XH8AkGAqdpkEhw=
+github.com/glycerine/go-1/codec v1.3.4/go.mod h1:sYP82jBffl9u5IaL8VVVuB5gZQHheCRTcecPxzmIyiI=
