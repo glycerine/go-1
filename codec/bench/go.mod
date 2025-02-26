@@ -1,4 +1,4 @@
-module github.com/ugorji/go/codec/bench
+module github.com/glycerine/go-1/codec/bench
 
 go 1.11
 
@@ -13,7 +13,7 @@ require (
 	github.com/mailru/easyjson v0.7.7
 	github.com/pquerna/ffjson v0.0.0-20190930134022-aa0246cd15f7
 	github.com/tinylib/msgp v1.1.9
-	github.com/ugorji/go/codec v1.2.12
+	github.com/glycerine/go-1/codec v1.2.12
 	github.com/vmihailenco/msgpack/v4 v4.3.13
 	go.mongodb.org/mongo-driver v1.13.0
 )

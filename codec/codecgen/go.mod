@@ -1,8 +1,8 @@
-module github.com/ugorji/go/codec/codecgen
+module github.com/glycerine/go-1/codec/codecgen
 
 go 1.11
 
 require (
-	github.com/ugorji/go/codec v1.2.12
+	github.com/glycerine/go-1/codec v1.2.12
 	golang.org/x/tools v0.16.0
 )
