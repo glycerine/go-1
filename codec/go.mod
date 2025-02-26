@@ -1,3 +1,3 @@
-module github.com/ugorji/go/codec
+module github.com/glycerine/go-1/codec
 
-go 1.11
+go 1.24

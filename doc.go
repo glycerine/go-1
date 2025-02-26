@@ -3,7 +3,7 @@
 
 package ugorji
 
-import _ "github.com/ugorji/go/codec"
+import _ "github.com/glycerine/go-1/codec"
 
 // PlaceHolder file, so this can be seen as a module.
 

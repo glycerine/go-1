@@ -6,4 +6,4 @@
 
 package main
 
-import _ "github.com/ugorji/go/codec" // ensures the go.mod keeps this dependency
+import _ "github.com/glycerine/go-1/codec" // ensures the go.mod keeps this dependency

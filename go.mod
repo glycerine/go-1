@@ -1,5 +1,5 @@
-module github.com/ugorji/go
+module github.com/glycerine/go-1
 
-go 1.11
+go 1.24
 
-require github.com/ugorji/go/codec v1.2.12
+require github.com/glycerine/go-1/codec v1.2.14-jea

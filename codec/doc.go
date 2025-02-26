@@ -208,7 +208,7 @@ Running Benchmarks
 	cd bench
 	go test -bench . -benchmem -benchtime 1s
 
-Please see http://github.com/ugorji/go-codec-bench .
+Please see http://github.com/glycerine/go-1-codec-bench .
 
 # Caveats
 
